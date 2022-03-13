@@ -1,4 +1,4 @@
-# 483-Machine-Learning
+# Machine Learning Projects
 Projects from CSUF Machine Learning course.
 
 Analysis of datasets using machine learning concepts in a Jupiter Notebook file.
